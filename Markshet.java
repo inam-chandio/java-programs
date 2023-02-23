@@ -10,7 +10,7 @@
 
         System.out.println("                                                         ");
         System.out.println("|==================================================|");
-        System.out.println("|                     MARKSHEET                    |");
+        System.out.println("|                   |  MARKSHEET  |                  |");
         System.out.println("|==================================================|");
         System.out.println("| Subject         | Obtained| Total Marks| Pers  % |");
         System.out.println("| "+Math + "            |"   + mathMarks +  "       |" +TotalMath + "         | "+(mathMarks*TotalMath)/100+"%     |" );
